@@ -1,5 +1,5 @@
 # Sub Plans
 
-To access sub plans, please select the plan with **TODAY'S** date.  
+To access sub plans, please select the plan above with **TODAY'S** date.  
 
-*If there is no sub-plan with today's date, please select the first emergency sub plan.*
+*If there is no sub-plan with today's date, please select the first emergency sub plan above.*
