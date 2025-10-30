@@ -8,6 +8,6 @@
     *  What were the results?
     *  How do the results of this study relate to your life and experience?
     *  What do you feel is the single most interesting or single most important takeaway from this study?
-3. Create a new file in your assignments folder titled, `LastNameFirstInitial_How_Well_Can_A_Computer_Think_Study_Reflection.md` in which you respond in writing to the discussion questions above. - 15 minutes
+3. Create a new file in your assignments folder titled, `LastNameFirstInitial_Recycling_and_Computers_Study_Reflection.md` in which you respond in writing to the discussion questions above. - 15 minutes
 
 **Remember to commit your work and include an appropriate commit message.**
