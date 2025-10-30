@@ -1,5 +1,5 @@
 # AP Computer Science Principles
-### Emergency Sub Plan 1
+### Backup Sub Plan 1
 
 1.  Read the study, [How can we tell whether we are talking to a computer or a person?](https://www.sciencejournalforkids.org/wp-content/uploads/2024/03/Turing-test_article.pdf) - 15 minutes
 2.  With your table partners, discuss the study you read.  Use the prompts below to guide your discussion. - 15 minutes
